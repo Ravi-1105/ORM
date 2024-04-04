@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![ER Diagram](erdiagram.png)
+![Uploading erdiagram.png…]()
 
 ## DESIGN STEPS
 
@@ -50,10 +50,10 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 
 ### Django Student
-![Django Student](Djangositeadmin.png)
+![Djangositeadmin](https://github.com/Ravi-1105/ORM/assets/139841688/57baeb06-326f-43ef-adbf-9cecabbe76bc)
 
 ### Primary key error
-![Primary key error](Primarykeyproof.png)
+![Primarykeyproof](https://github.com/Ravi-1105/ORM/assets/139841688/e00aa706-193d-4913-a76f-e3ad50ebc990)
 
 ## RESULT
 
