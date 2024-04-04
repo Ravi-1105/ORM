@@ -24,7 +24,7 @@ Then do the git configuration using the git commands to post the repository in g
 ## PROGRAM
 
 # TO CREATE models.py:
-'''
+
 from django.db import models
 from django.comtrib import admin
 #Create your models here
@@ -37,9 +37,9 @@ class Student (models.Model):
 
 class StudentAdmin(admin.ModelAdmin):
     list_display=('referencenumber','name','age','email','phonenumber')
-'''
+
 # TO CREATE admins.py
-'''
+
 from django.contrib import admin
 from .models import Student,StudentAdmin
 
